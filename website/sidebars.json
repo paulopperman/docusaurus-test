@@ -1,0 +1,8 @@
+{
+  "docs": {
+    "Getting Sarted": ["intro"]
+  },
+  "docs-other": {
+    "First Category": ["one", "two"]
+  }
+}
